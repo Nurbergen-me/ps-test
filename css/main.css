@@ -17,7 +17,7 @@ a {
 }
 
 h1,h2,h3 {
-    font-weight: 400;
+    font-weight: 700;
 }
 
 h1 {
@@ -170,6 +170,10 @@ a:hover, a.active {
     text-align: center;
     padding: 25px 0;
     margin-bottom: 10px;
+}
+
+.resource__item span {
+    font-weight: 700;
 }
 
 .resource__item:hover {
